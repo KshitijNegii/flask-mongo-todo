@@ -1,0 +1,7 @@
+flask-mongo-form/
+├── app.py
+├── data.json
+├── templates/
+│   ├── form.html
+│   └── success.html
+
